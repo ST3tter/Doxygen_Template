@@ -1,0 +1,9 @@
+/**
+
+\defgroup <label> <Group Name>
+\brief   Description of the group 
+
+\defgroup ex Example group
+\brief   This is just an example group
+
+*/

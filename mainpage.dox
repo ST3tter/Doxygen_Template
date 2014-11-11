@@ -1,0 +1,9 @@
+/**
+\mainpage Main of the Doxygen documentation
+
+This is the main documentation page for the Doxygen site.
+<p>
+Standard HTML code can be used.....
+
+\image html AnImage.pdf
+*/
